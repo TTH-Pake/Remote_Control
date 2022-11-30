@@ -1,5 +1,5 @@
 #                                                              :smile_cat: REMOTE_CONTROL :smile_cat:
-#                                                         :kissing_cat:WELCOME TO MY APPLICATION : REMOTE-CONTROL:kissing_cat:
+#                                                         :kissing_cat:WELCOME TO MY APPLICATION : REMOTE-CONTROL
 ##                                                       :sleeping: Đồ án lý thuyết Mạng máy tính : Remote_Control PC  :sleeping:
 ##                                                       :boom:Group 11 :boom:
 
