@@ -1,6 +1,7 @@
 #                                                              :smile_cat: REMOTE_CONTROL :smile_cat:
-#                                                         :kissing_cat:WELCOME TO MY APPLICATION : REMOTE-CONTROL-PC:kissing_cat:
+#                                                         :kissing_cat:WELCOME TO MY APPLICATION : REMOTE-CONTROL:kissing_cat:
 ##                                                       :sleeping: Đồ án lý thuyết Mạng máy tính : Remote_Control PC  :sleeping:
+##                                                       :boom:Group 11 :boom:
 
 **_:face_in_clouds:  I.  MỤC TIÊU CỦA ĐỒ ÁN._**
 
